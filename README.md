@@ -1,4 +1,4 @@
-# Nuxt.js Frontend Application
+# NestJs Backend Application
 このアプリケーションは、Nuxt.jsを使ったシンプルなToDoリストアプリです。
 
 ## 起動方法
